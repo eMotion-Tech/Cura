@@ -166,8 +166,7 @@
         },
         "speed_topbottom":
         {
-            "maximum_value": "60",
-            "value": "30"
+            "maximum_value": "60"
         },
         "speed_travel":
         {
@@ -181,13 +180,11 @@
         },
         "speed_wall":
         {
-            "maximum_value": "60",
-            "value": "30"
+            "maximum_value": "60"
         },
         "speed_wall_0":
         {
-            "maximum_value": "35",
-            "value": "30"
+            "maximum_value": "35"
         },
         "speed_wall_x":
         {
