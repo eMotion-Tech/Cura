@@ -1,0 +1,22 @@
+{
+    "version": 2,
+    "name": "Left Extruder",
+    "inherits": "fdmextruder",
+    "metadata":
+    {
+        "machine": "strateo3d_DUAL600-D",
+        "position": "0"
+    },
+    "overrides":
+    {
+        "extruder_nr":
+        {
+            "default_value": 0,
+            "maximum_value": "1"
+        },
+        "machine_extruder_cooling_fan_number": { "default_value": 6 },
+        "machine_nozzle_offset_x": { "default_value": 0 },
+        "machine_nozzle_offset_y": { "default_value": 0 },
+        "material_diameter": { "default_value": 1.75 }
+    }
+}
